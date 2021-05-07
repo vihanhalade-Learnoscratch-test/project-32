@@ -1,0 +1,17 @@
+{
+    "abbreviation": "JST",
+    "client_ip": "73.76.97.179",
+    "datetime": "2021-05-04T05:29:48.775970+09:00",
+    "day_of_week": 2,
+    "day_of_year": 124,
+    "dst": false,
+    "dst_from": null,
+    "dst_offset": 0,
+    "dst_until": null,
+    "raw_offset": 32400,
+    "timezone": "Asia/Tokyo",
+    "unixtime": 1620073788,
+    "utc_datetime": "2021-05-03T20:29:48.775970+00:00",
+    "utc_offset": "+09:00",
+    "week_number": 18
+}
